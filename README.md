@@ -13,6 +13,7 @@ The essay said a business needs "a clear website with a page for each service." 
 - **Real local detail.** Neighborhoods, the age of Spokane's housing, our winters. This is what separates a real local business from a generic template, for people and for search engines alike.
 - **Structured business data.** The home page includes Schema.org `Plumber` data (name, address, phone, hours, service area). Google and AI assistants read this to understand who the business is.
 - **Reviews out front.** Reviews show up on the home page and have their own page, which also asks past customers to leave a new one.
+- **Real photos.** There are 20 photos, including real Spokane neighborhoods (South Hill, Browne's Addition, Perry District, Hillyard) and plumbing work. All come from Wikimedia Commons under free licenses, are resized into `images/`, and are credited on `credits.html`.
 
 ## Demo-only details
 
